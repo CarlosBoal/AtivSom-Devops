@@ -1,5 +1,5 @@
-num1=2
-num2=3
+num1=7
+num2=4
 print(num1+num2)
 
-print ("*********")
+print ("HELLO, WORLD!")
